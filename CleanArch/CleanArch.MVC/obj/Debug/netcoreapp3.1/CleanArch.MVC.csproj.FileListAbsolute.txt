@@ -60,7 +60,6 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csproj.AssemblyReference.cache
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.AssemblyInfoInputs.cache
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.AssemblyInfo.cs
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csproj.CoreCompileInputs.cache
@@ -90,3 +89,4 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.genruntimeconfig.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csproj.AssemblyReference.cache
