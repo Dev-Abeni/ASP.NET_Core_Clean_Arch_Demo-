@@ -3,9 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Application", "CleanArch.Application", "{C992CF78-5243-4462-898A-CE10058B4768}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Domain", "CleanArch.Domain", "{0DB319BC-B661-4DDC-A79C-1340EA2F98BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.UI.MVC", "CleanArch.UI.MVC", "{9179A152-B1EE-442F-8078-7A6529B1CF80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infrastructure.Data", "CleanArch.Infrastructure.Data", "{D568CD09-921A-47F0-9856-F3E03DB0B6ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infrastructure.IoC", "CleanArch.Infrastructure.IoC", "{BAB680AB-FE39-4132-A8A8-94854912AF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.MVC", "CleanArch.MVC\CleanArch.MVC.csproj", "{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE3ADD87-EFC1-471F-A8CC-69CF29BE614E} = {9179A152-B1EE-442F-8078-7A6529B1CF80}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FEC06FB-741E-4262-A66F-B20B1B7FED73}
