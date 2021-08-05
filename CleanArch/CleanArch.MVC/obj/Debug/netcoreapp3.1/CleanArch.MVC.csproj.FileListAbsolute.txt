@@ -89,4 +89,3 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.genruntimeconfig.cache
-E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.csproj.AssemblyReference.cache
