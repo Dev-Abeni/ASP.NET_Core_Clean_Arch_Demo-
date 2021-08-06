@@ -1,0 +1,8 @@
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.deps.json
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfoInputs.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfo.cs
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CoreCompileInputs.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
