@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mwUZ0yECbpjaLUpI7VzSW5SpRsPBNcAb6aIits6ne4C8kiha+WB06Ir5VhJ1phxAGv9TsszEPt6wipInr5tTfw==",
+  "success": true,
+  "projectFilePath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.IoC\\CleanArch.Infrastructure.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
