@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj": {}
+    "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj": {}
   },
   "projects": {
     "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
@@ -130,89 +130,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj",
-        "projectName": "CleanArch.MVC",
-        "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.MVC\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj": {
-                "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.16, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.16, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[3.1.16, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.16, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[3.1.16, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

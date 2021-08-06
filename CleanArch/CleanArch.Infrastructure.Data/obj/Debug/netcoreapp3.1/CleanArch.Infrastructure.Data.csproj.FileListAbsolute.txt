@@ -1,0 +1,15 @@
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.deps.json
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.AssemblyInfoInputs.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.AssemblyInfo.cs
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.runtimeconfig.json
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.runtimeconfig.dev.json
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.genruntimeconfig.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.csproj.AssemblyReference.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.csproj.CopyComplete
