@@ -6,3 +6,11 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\De
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.csproj.CoreCompileInputs.cache
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.csproj.AssemblyReference.cache
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.csproj.CopyComplete
