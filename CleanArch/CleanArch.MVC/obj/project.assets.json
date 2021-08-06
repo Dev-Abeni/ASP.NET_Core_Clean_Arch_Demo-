@@ -1520,6 +1520,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "CleanArch.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Application.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1543,6 +1556,21 @@
         },
         "runtime": {
           "bin/placeholder/CleanArch.Infrastructure.Data.dll": {}
+        }
+      },
+      "CleanArch.Infrastructure.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Infrastructure.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infrastructure.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infrastructure.IoC.dll": {}
         }
       }
     }
@@ -5712,6 +5740,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Application/CleanArch.Application.csproj",
+      "msbuildProject": "../CleanArch.Application/CleanArch.Application.csproj"
+    },
     "CleanArch.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
@@ -5721,11 +5754,17 @@
       "type": "project",
       "path": "../CleanArch.Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
       "msbuildProject": "../CleanArch.Infrastructure.Data/CleanArch.Infrastructure.Data.csproj"
+    },
+    "CleanArch.Infrastructure.IoC/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj",
+      "msbuildProject": "../CleanArch.Infrastructure.IoC/CleanArch.Infrastructure.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CleanArch.Infrastructure.Data >= 1.0.0",
+      "CleanArch.Infrastructure.IoC >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.16",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.16",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.16",
@@ -5762,6 +5801,9 @@
           "projectReferences": {
             "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj": {
               "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj"
+            },
+            "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.IoC\\CleanArch.Infrastructure.IoC.csproj": {
+              "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.IoC\\CleanArch.Infrastructure.IoC.csproj"
             }
           }
         }
