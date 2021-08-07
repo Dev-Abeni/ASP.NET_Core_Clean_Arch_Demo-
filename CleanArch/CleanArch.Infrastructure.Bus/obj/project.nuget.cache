@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rt4XRQcwUyzknMMmupkHS4hrXiwm/DCjCeZE4YCg13KSkbCGZ1rKIp5HfZ4idV0BgmIqdUbRtogo7GbbKIRDIw==",
+  "dgSpecHash": "gmevzpMXYN/HRsc+LpCOoVs2amOj9Mb5otMlk1++ZdDWPNBgVIbmHLDDvSy5rt18WemU4TssIsmKLX/1tlmJpg==",
   "success": true,
   "projectFilePath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Bus\\CleanArch.Infrastructure.Bus.csproj",
   "expectedPackageFiles": [

@@ -10,19 +10,6 @@
         "runtime": {
           "lib/netstandard2.1/MediatR.dll": {}
         }
-      },
-      "CleanArch.Domain.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "MediatR": "9.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        }
       }
     }
   },
@@ -44,16 +31,10 @@
         "mediatr.9.0.0.nupkg.sha512",
         "mediatr.nuspec"
       ]
-    },
-    "CleanArch.Domain.Core/1.0.0": {
-      "type": "project",
-      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
-      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CleanArch.Domain.Core >= 1.0.0",
       "MediatR >= 9.0.0"
     ]
   },
@@ -63,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Bus\\CleanArch.Infrastructure.Bus.csproj",
-      "projectName": "CleanArch.Infrastructure.Bus",
-      "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Bus\\CleanArch.Infrastructure.Bus.csproj",
+      "projectUniqueName": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
+      "projectName": "CleanArch.Domain.Core",
+      "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Bus\\obj\\",
+      "outputPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,11 +64,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
-              "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
