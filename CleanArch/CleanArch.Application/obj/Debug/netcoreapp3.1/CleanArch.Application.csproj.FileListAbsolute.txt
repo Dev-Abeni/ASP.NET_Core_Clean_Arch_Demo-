@@ -10,3 +10,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\net
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.AssemblyReference.cache
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

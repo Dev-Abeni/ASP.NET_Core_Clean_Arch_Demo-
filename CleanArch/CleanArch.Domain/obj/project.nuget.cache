@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0WN6mGpHsP20EjUnwpqNFGFO1sPCYZqsytqgtfHpIPjx/hE3CZnh0/URxMcEJXE394xMaDN5mBcinouwZy7qwQ==",
+  "dgSpecHash": "gbq6BmFAN7j/4XOFylCLj/wr/aXHjbmFI97QIwB+fmDPXrjlsZykc8WfjBsdKIsGa6XxUcwyC8AhyKqh/4+Abg==",
   "success": true,
   "projectFilePath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

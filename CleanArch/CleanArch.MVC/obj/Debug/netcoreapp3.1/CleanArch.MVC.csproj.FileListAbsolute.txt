@@ -99,3 +99,6 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

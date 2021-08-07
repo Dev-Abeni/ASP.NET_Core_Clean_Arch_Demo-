@@ -13,3 +13,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\D
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.Data.csproj.CopyComplete
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
