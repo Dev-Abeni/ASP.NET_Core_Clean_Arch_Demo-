@@ -102,3 +102,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\obj\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.pdb

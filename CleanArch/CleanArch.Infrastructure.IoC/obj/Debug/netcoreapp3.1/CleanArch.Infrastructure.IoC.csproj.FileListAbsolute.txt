@@ -16,3 +16,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\De
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.IoC.csproj.CopyComplete
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Infrastructure.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.pdb

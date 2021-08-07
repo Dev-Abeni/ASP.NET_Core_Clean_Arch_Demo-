@@ -1568,6 +1568,20 @@
           "bin/placeholder/CleanArch.Domain.Core.dll": {}
         }
       },
+      "CleanArch.Infrastructure.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infrastructure.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infrastructure.Bus.dll": {}
+        }
+      },
       "CleanArch.Infrastructure.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1588,6 +1602,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "CleanArch.Infrastructure.Bus": "1.0.0",
           "CleanArch.Infrastructure.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.0"
         },
@@ -5798,6 +5813,11 @@
       "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
       "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
     },
+    "CleanArch.Infrastructure.Bus/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj",
+      "msbuildProject": "../CleanArch.Infrastructure.Bus/CleanArch.Infrastructure.Bus.csproj"
+    },
     "CleanArch.Infrastructure.Data/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Infrastructure.Data/CleanArch.Infrastructure.Data.csproj",
@@ -5811,7 +5831,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CleanArch.Infrastructure.Data >= 1.0.0",
       "CleanArch.Infrastructure.IoC >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.16",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.16",
@@ -5847,9 +5866,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj": {
-              "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.Data\\CleanArch.Infrastructure.Data.csproj"
-            },
             "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.IoC\\CleanArch.Infrastructure.IoC.csproj": {
               "projectPath": "E:\\Personal Projects\\CleanArchDemo\\CleanArch\\CleanArch.Infrastructure.IoC\\CleanArch.Infrastructure.IoC.csproj"
             }
