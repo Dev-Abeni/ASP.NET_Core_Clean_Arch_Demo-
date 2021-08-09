@@ -105,3 +105,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.Bus.pdb
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.MVC\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

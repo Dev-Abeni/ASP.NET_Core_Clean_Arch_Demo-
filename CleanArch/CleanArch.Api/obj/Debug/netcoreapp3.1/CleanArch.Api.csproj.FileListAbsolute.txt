@@ -57,3 +57,5 @@ E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\obj\Debug\netcoreapp3.1\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Personal Projects\CleanArchDemo\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
